@@ -1,21 +1,20 @@
-# Python
 __pycache__/
 *.py[cod]
 
-# Virtual environments
 venv/
 .venv/
 
-# IDEs
 .vscode/
 .idea/
 
-# Local media
-playlist/
-*.mp4
-*.mp3
-*.mkv
-*.avi
-*.wav
-*.m4a
-*.ogg
+*.log
+
+playlist/*.mp4
+playlist/*.mkv
+playlist/*.avi
+playlist/*.mp3
+playlist/*.wav
+playlist/*.ogg
+
+assets/*.mp4
+assets/*.mp3
