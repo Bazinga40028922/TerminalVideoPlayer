@@ -20,8 +20,8 @@ A Python terminal video player with local playback, YouTube streaming, HD mode, 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/UltraPeakPlayer.git
-cd UltraPeakPlayer
+git clone https://github.com/Bazinga40028922/TerminalVideoPlayer.git
+cd TerminalVideoPlayer
 
 pip install -r requirements.txt
 ```
