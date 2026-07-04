@@ -1,1 +1,6 @@
-.
+opencv-python
+numpy
+yt-dlp
+streamlink
+python-vlc
+pygame
